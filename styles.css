@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Pacifico&family=Poppins:wght@300&family=Public+Sans:wght@800&display=swap');
+
 body {
   font-family: "Inter"
   ;
@@ -48,7 +50,7 @@ strong {
 }
 
 .navbar-brand {
-  font-family: "Ubuntu";
+  font-family: 'Pacifico', cursive;
   font-size: 2.5rem;
   font-weight: bold;
   color: #fff;
@@ -61,7 +63,7 @@ strong {
 
 .nav-item a {
   color: #F7F1E5;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: 'Public Sans', sans-serif;
   font-size: 1.4rem;
 }
 
@@ -75,7 +77,6 @@ strong {
 }
 
 .download-button {
-
   margin: 5% 3% 5% 0;
 }
 
